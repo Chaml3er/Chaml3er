@@ -32,6 +32,6 @@
  
 <h1 align = "left"> :bar_chart: Github Stats </h1>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutohsavage&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutohsavage&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaml3er&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaml3er&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

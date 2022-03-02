@@ -1,4 +1,4 @@
-<h1 align = "center"> :wink: Welcome to my github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> :wink: </h1>
+<h1 align = "center"> :wink: This is my github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> :wink: </h1>
 
 
 ## :man_technologist: About me

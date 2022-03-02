@@ -1,7 +1,7 @@
 <h1 align = "center"> 🎓 This is my github profile! 🎓 </h1>
 
 
-## :man_technologist: About me
+## :heart: About me
 - I am a `Junior Student` at Faculty of Science and Technology at Thammasat University
 - I’m currently learning: `Computer Science`.
 - I’m currently open for: `An Intern`.

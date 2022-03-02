@@ -3,7 +3,7 @@
 
 ## :man_technologist: About me
 - :school: I am a `Junior Student` at Faculty of Science and Technology at Thammasat University
-- :student: I’m currently learning: `Computer Science`.
+- 🎓 I’m currently learning: `Computer Science`.
 - :thinking: I’m currently open for: `An Intern`.
 - :nerd_face: Ready to `learning new things`
 
